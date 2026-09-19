@@ -1,5 +1,8 @@
 # Zepto Data Analysis | MySQL | SQL Business Analytics
 
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-E72380?style=for-the-badge)
+
 ## Project Overview
 
 An end-to-end **Zepto product data analysis project using MySQL**, transforming product-level data into business insights across pricing, customer value, inventory, availability, and category strategy.
