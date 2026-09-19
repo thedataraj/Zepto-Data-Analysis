@@ -1,3 +1,5 @@
+-- Zepto Data Analysis Project
+
 /*---------DATABASE SETUP---------*/
 
 create database zepto;
