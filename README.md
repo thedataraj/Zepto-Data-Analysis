@@ -97,9 +97,8 @@ Zepto-Data-Analysis/
 ├── README.md
 ├── zepto_v2.csv
 ├── zepto_data_analysis_project.sql
-├── Zepto_Dynamic_Premium_Light_Raj_Singh.pptx
-└── outputs/
-    └── SQL result screenshots
+└── Zepto_Dynamic_Premium_Light_Raj_Singh.pptx
+ 
 ```
 
 Rename the SQL/PPT filenames above to match the exact files uploaded to your repository.
